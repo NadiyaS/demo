@@ -1,0 +1,7 @@
+app/code/Magento/Doc/view/doc/web/prettify/lang-basic.js
+app/code/Magento/Doc/view/doc/web/jumly/coffee-script.js
+app/code/Magento/Doc/view/doc/web/jumly/jumly.min.js
+app/code/Magento/Doc/view/doc/web/prettify/lang-css.js
+app/code/Magento/Doc/view/doc/web/prettify/run_prettify.js
+app/code/Magento/AdvancedCheckout/view/adminhtml/web/shopping_cart.js
+app/code/Magento/Rma/view/adminhtml/web/rma.js
