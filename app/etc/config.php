@@ -358,56 +358,6 @@ return array (
     ),
     'stores' => 
     array (
-      'default' => 
-      array (
-        'design' => 
-        array (
-          'theme' => 
-          array (
-            'theme_id' => '2',
-          ),
-          'pagination' => 
-          array (
-            'pagination_frame_skip' => NULL,
-            'anchor_text_for_previous' => NULL,
-            'anchor_text_for_next' => NULL,
-          ),
-          'head' => 
-          array (
-            'title_prefix' => NULL,
-            'title_suffix' => NULL,
-            'default_description' => NULL,
-            'includes' => NULL,
-          ),
-          'header' => 
-          array (
-            'logo_width' => NULL,
-            'logo_height' => NULL,
-            'logo_alt' => NULL,
-          ),
-          'footer' => 
-          array (
-            'absolute_footer' => NULL,
-          ),
-          'watermark' => 
-          array (
-            'image_size' => NULL,
-            'image_imageOpacity' => NULL,
-            'small_image_size' => NULL,
-            'small_image_imageOpacity' => NULL,
-            'thumbnail_size' => NULL,
-            'thumbnail_imageOpacity' => NULL,
-            'swatch_image_size' => NULL,
-            'swatch_image_imageOpacity' => NULL,
-          ),
-          'email' => 
-          array (
-            'logo_alt' => NULL,
-            'logo_width' => NULL,
-            'logo_height' => NULL,
-          ),
-        ),
-      ),
       'demo' => 
       array (
         'design' => 
